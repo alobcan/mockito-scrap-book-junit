@@ -1,0 +1,1 @@
+# mockito-scrap-book-junit
